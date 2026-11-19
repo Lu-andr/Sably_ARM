@@ -1,4 +1,5 @@
 name: Build Android APK
+# Build trigger: requested Android debug APK
 
 on:
   push:
